@@ -39,7 +39,7 @@ export default {
       vertical-align: middle;
   }
 
-  /deep/ .social-wrap {
+  .social-wrap {
     float: right;
     .icon {
       font-size: 2.8rem;
@@ -49,7 +49,7 @@ export default {
     }
   }
 
-  /deep/ li{
+  li{
       margin-bottom: 0 !important;
   }
 
